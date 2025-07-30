@@ -22,5 +22,5 @@ venv/
 Thumbs.db
 
 .venv/
-venv/
+venv
 env/
