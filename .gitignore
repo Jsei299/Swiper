@@ -6,6 +6,9 @@ __pycache__/
 .Python
 venv/
 .idea
+.venv/
+venv
+env/
 
 # Environment
 .env
@@ -17,11 +20,11 @@ venv/
 # Database
 *.db
 *.sqlite
+*.db-journal
 
 # OS
 .DS_Store
 Thumbs.db
 
-.venv/
-venv
-env/
+
+
